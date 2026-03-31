@@ -1,0 +1,48 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@theme {
+  --font-manrope: "Manrope", sans-serif;
+  --color-primary: #7C3AED;
+  --color-secondary: #6D28D9;
+}
+
+:root {
+  font-family: 'Manrope', system-ui, -apple-system, sans-serif;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #FAFAFA;
+}
+
+#root {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+/* 
+  Fix to perfectly match Figma Desktop scaling using vw:
+*/
+@media (min-width: 1024px) {
+  html {
+    font-size: 0.9vw;
+  }
+}
+
+/* Custom styles based on Figma */
+.btn-primary-gradient {
+  background: linear-gradient(90deg, #7C3AED 0%, #A855F7 100%);
+  color: white;
+  border: none;
+}
+
+.btn-primary-gradient:hover {
+  opacity: 0.9;
+}
+
+.card-shadow {
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
+}
