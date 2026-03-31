@@ -26,7 +26,7 @@ const Banner = () => {
             <span>New: AI-Powered Tools Available</span>
           </div>
 
-          <h1 className="text-5xl lg:text-[47px] font-bold text-[#1E293B] leading-[1.15] mb-6">
+          <h1 className="text-4xl lg:text-[47px] font-bold text-[#1E293B] leading-[1.15] mb-6">
             Supercharge Your <br /> Digital Workflow
           </h1>
 
