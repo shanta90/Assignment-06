@@ -8,3 +8,9 @@ Technologies Used:
  *DaisyUI, 
  *React-Toastify(NPM Package)
  *JSON(for product data)
+
+ Features: 
+
+1. Smart Cart System: Add products to your cart with a single click, view itemized totals, and manage your selections — all with real-time toast notifications and smooth UI transitions.
+2. Lightning-Fast Performance: Powered by Vite 6 and React 19, the platform delivers instant page loads, optimized builds, and buttery-smooth interactions for the best user experience.
+3. Premium UI/UX Design: Stunning gradient aesthetics, glassmorphism effects, micro-animations, and a fully responsive layout that looks gorgeous on every device from mobile to desktop.
