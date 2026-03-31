@@ -1,0 +1,3 @@
+name: DigiTools-platform
+Description: This is a modern, responsive digital tools marketplace built with **React 19** and **Vite**. It provides a seamless shopping experience for discovering and purchasing premium digital products — from AI-powered design tools to productivity software and creative templates.
+The platform features a sleek purple-gradient design language, smooth animations, and an intuitive user experience that makes browsing and managing digital products effortless.
