@@ -113,9 +113,7 @@ Update these with your deployment and repository URLs when available.
 
 | Resource | Link |
 |----------|------|
-| **Live demo** | _Add your Vercel / Netlify / GitHub Pages URL_ |
-| **Source (GitHub)** | _Add your repository URL_ |
-| **Docs / issues** | _Optional wiki or documentation link_ |
+| **Live demo** | https://aquamarine-cassata-e283c5.netlify.app/ 
 
 ---
 
