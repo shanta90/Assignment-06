@@ -117,6 +117,3 @@ Update these with your deployment and repository URLs when available.
 
 ---
 
-## License
-
-This project is marked `"private": true` in `package.json` (typical for coursework or internal use). Add a root `LICENSE` file if you publish it publicly.
